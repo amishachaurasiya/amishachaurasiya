@@ -10,3 +10,4 @@ https://twitter.com/amisha_2306?t=14__LncSkOtfoOmPulvUgw&s=09
 amishachaurasiya/amishachaurasiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![@amisha's Holopin board](https://holopin.me/amisha)](https://holopin.io/@amisha)
